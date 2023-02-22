@@ -1,0 +1,4 @@
+- GraphQL Playground Endpoint: http://localhost/playground
+- Graphql Endpoint: http://localhost/graphql
+- REST Endpoint: http://localhost/
+

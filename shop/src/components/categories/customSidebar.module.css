@@ -1,0 +1,20 @@
+.custom_sidebar {
+    padding-left: 35px;
+}
+.custom_sidebar h3{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-top: 15px;
+}
+.custom_sidebar li{
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.custom_sidebar li:first-child{
+    margin-top: 30px;
+}
+.custom_sidebar li:last-child{
+    margin-bottom: 30px;
+}

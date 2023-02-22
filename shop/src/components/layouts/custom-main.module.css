@@ -1,0 +1,45 @@
+.header_area{
+    width: 100%;
+    background: #fff;
+    box-shadow: 0px 0px 3px rgb(0 0 0);
+}
+.container{
+    width: 1300px;
+    margin: auto;
+}
+.header_content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+.logo h2 {
+    font-size: 35px;
+}
+.menu ul li {
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 18px;
+}
+.custom_home_page{
+    width: 100%;
+}
+.product_category_sidebar{
+    width: 24%;
+    float: left;
+}
+.product_area{
+    width: 75%;
+    float: left;
+}
+.sidebar_area {
+    width: 90%;
+    background: #fff;
+    margin-top: 10px;
+    padding: 25px;
+}
+.sidebar_area ul li {
+    margin-bottom: 14px;
+    font-size: 16px;
+    font-weight: 600;
+}
